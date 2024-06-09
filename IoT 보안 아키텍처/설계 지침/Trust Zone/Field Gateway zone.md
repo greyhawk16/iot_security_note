@@ -1,0 +1,3 @@
+- Field Gateway: 통신 중계 혹은 디바이스 제어/데이터 수집을 담당하는 장비
+- 포함 대상: Field Gateway 및 휘하의 디바이스
+- Field Gateway에 공격자가 물리적으로 손을 댈 가능성도 있음

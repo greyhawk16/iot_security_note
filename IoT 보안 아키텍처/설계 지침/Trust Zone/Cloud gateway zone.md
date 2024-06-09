@@ -1,0 +1,3 @@
+- cloud gateway: 여러 지역의 디바이스 혹은 field gateway간 통신을 담당
+- 공격자가 물리적으로 접근할 가능성 낮음
+- 구성요소: cloud gateway, 휘하에 연결된 field gateway 및 디바이스
