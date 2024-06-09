@@ -1,0 +1,2 @@
+- IoT 보안용
+- [[Azure IoT Central]]과 연계 가능
