@@ -1,0 +1,16 @@
+- 출처: https://www.linkedin.com/pulse/top-5-industrial-control-system-ics-attacks-2023-das-cism-cissp--e9a6f
+
+- [[Segmentation]]
+- [[Regular Patching]]
+- [[Anomaly Detection]]
+- [[Vendor Risk Assessment]]
+- [[Code signing]]
+- [[Network Segmentation]]
+- [[Air Gap]]
+- [[Behavioral Analysis]]
+- [[USB Security]]
+- [[Strong Authentication]]
+- [[Regular Audit]]
+- [[Protocol Hardening]]
+- [[Incident Resopnse]]
+- [[연관 표준 및 규제]]
