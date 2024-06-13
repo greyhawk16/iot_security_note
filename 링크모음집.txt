@@ -1,0 +1,54 @@
+□ IoT/ICS 보안 이론
+• https://www.linkedin.com/pulse/strengthening-industrial-control-system-security-mark-akins
+• https://www.linkedin.com/pulse/applying-isoiec-270012-isaiec-62443-series-technology-thierry-motsch
+• https://www.linkedin.com/pulse/why-passwords-equivalent-x509-certificates-iot-lukasz-malinowski
+• https://www.linkedin.com/pulse/top-5-industrial-control-system-ics-attacks-2023-das-cism-cissp--e9a6f
+• https://www.codemotion.com/magazine/cybersecurity/how-to-optimize-scada-cybersecurity/
+• ICS/SCADA@ECCouncil: https://www.eccouncil.org/train-certify/ics-scada-cybersecurity/
+• IoT 보안: https://www.techtarget.com/iotagenda/definition/IoT-security-Internet-of-Things-security
+• IoT security best practice@AWS: https://pages.awscloud.com/iot-security-best-practices-ebook-ty.html
+• IoT보안종류: https://www.checkpoint.com/cyber-hub/network-security/what-is-iot-security/
+• IoT@CloudFlare: https://www.cloudflare.com/ko-kr/learning/security/glossary/iot-security/
+• IoT 엔드포인트 보호: https://m.boannews.com/html/detail.html?mtype=1&idx=129421
+• IoT에서 중요한 사항: https://www.appviewx.com/education-center/what-are-the-key-security-requirements-for-iot/
+• OT 보안: https://m.boannews.com/html/detail.html?mtype=1&idx=127211
+• IoT 기기에서 자주 보이는 취약점
+- DNS Rebinding
+- Command Injection(시스템해킹)
+
+
+□ 국가과학기술자문회 국가전략기술 특별위원회 정책
+• https://www.msit.go.kr/bbs/view.do?sCode=&nttSeqNo=3184033&pageIndex=2&searchTxt=&searchOpt=ALL&bbsSeqNo=94&mId=113&mPid=238
+
+
+
+□ IoT 보안 Best Practice 및 아키텍처
+• IoT 보안 아키텍처: https://www.checkpoint.com/cyber-hub/network-security/what-is-iot/iot-security-architecture/
+• IoT 보안@AWS: https://docs.aws.amazon.com/iot/latest/developerguide/iot-security.html
+               https://aws.amazon.com/ko/blogs/iot/ten-security-golden-rules-for-industrial-iot-solutions/
+• IoT 보안 아키텍처@Azure: https://learn.microsoft.com/en-us/azure/iot/iot-security-architecture
+• IoT 보안 아키텍쳐@TechTarget: https://www.techtarget.com/searchsecurity/tip/Use-an-IoT-security-architecture-to-protect-networks-end-to-end
+• IoT 보안 아키텍처@IoT-analytics: https://iot-analytics.com/understanding-iot-security-part-1-iot-security-architecture/
+• IoT 보안 아키텍처@ARM: https://community.arm.com/arm-community-blogs/b/internet-of-things-blog/posts/the-iot-architects-practical-guide-to-security
+
+
+□ IoT 보안제품
+• AWS IoT 보안제품: https://aws.amazon.com/ko/iot-device-defender/
+• Azure IoT 보안제품: https://learn.microsoft.com/en-us/azure/iot-central/core/overview-iot-central-security
+• IoT 보안제품: https://m.boannews.com/html/detail.html?mtype=1&idx=129684
+• CPS: https://m.boannews.com/html/detail.html?mtype=1&idx=128836
+
+
+□ SBOM
+• SBOM 취약점: https://m.boannews.com/html/detail.html?tab_type=1&idx=129448
+• SBOM: https://m.boannews.com/html/detail.html?mtype=3&tab_type=6&idx=130181
+
+
+• 항공우주보안 관심급등: https://m.boannews.com/html/detail.html?tab_type=1&idx=129679
+
+
+<사이드 플젝>
+• 엔트로피 관련:
+- https://www.google.com/amp/s/www.picussecurity.com/resource/glossary/what-is-a-yara-rule%3fhs_amp=true
+• YARA Rule 관련:
+- https://sbgg.tistory.com/m/42
